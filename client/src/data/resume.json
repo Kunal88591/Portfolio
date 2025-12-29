@@ -1,0 +1,10 @@
+{
+  "name": "Your Name",
+  "title": "Product-minded Engineer",
+  "email": "you@example.com",
+  "summary": "I build production-ready web apps with React, design systems and delightful UX.",
+  "experience": [
+    { "company": "Company A", "role": "Senior Engineer", "period": "2022 - Present", "details": "Led frontend architecture and delivery of a user analytics product." },
+    { "company": "Company B", "role": "Software Engineer", "period": "2019 - 2022", "details": "Built reusable component libraries and improved app performance." }
+  ]
+}

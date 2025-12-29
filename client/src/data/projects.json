@@ -1,0 +1,18 @@
+[
+  {
+    "title": "SaaS Dashboard Clone",
+    "slug": "saas-dashboard",
+    "description": "A production-like dashboard demonstrating complex charts, auth, and reusable components.",
+    "tech": ["React", "Vite", "Tailwind", "Framer Motion"],
+    "demoUrl": "https://example.com",
+    "repoUrl": "https://github.com/your/repo"
+  },
+  {
+    "title": "3D Portfolio Hero",
+    "slug": "3d-hero",
+    "description": "Interactive 3D hero built with react-three-fiber and Drei.",
+    "tech": ["Three.js", "react-three-fiber", "Framer Motion"],
+    "demoUrl": "https://example.com",
+    "repoUrl": "https://github.com/your/repo"
+  }
+]
